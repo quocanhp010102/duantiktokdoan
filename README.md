@@ -7,18 +7,16 @@ A simple app Video viewing and sharing application like Tiktok
 - ***a app video storage***
 Watch videos of yourself and others
 
-
-https://www.youtube.com/watch?v=_BZha6F5fuk
+## usage knowledge
+- ***UIKIT library Swift***
+- ***Firebase***
+- ***avfoundation library***
+- ***AVKIT library***
+- ***PhotosUI library***
+- ***ProgressHUD Pod library***
 ## Login
 
-
 https://github.com/quocanhp010102/duantiktokdoan/assets/78028858/709ea468-da4f-431a-bae9-a401a29f1456
-
-
-
-
-
-
 
 ## create video
 
@@ -36,8 +34,9 @@ https://github.com/quocanhp010102/duantiktokdoan/assets/78028858/1aef2fc2-ea18-4
 
 
 ## search
-
-
 https://github.com/quocanhp010102/duantiktokdoan/assets/78028858/0ba297da-e355-4733-b5df-15ba864439b9
+## firebase
+<img width="1146" alt="Screenshot 2024-07-07 at 15 19 21" src="https://github.com/quocanhp010102/duantiktokdoan/assets/78028858/84a28bee-11fa-42e1-bc2e-4893b412fa1b">
 
-
+## link demo chạy project
+https://www.youtube.com/watch?v=_BZha6F5fuk
